@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5106b44-ecd3-47ce-8294-1b7f9286675c" name="Changes" comment="">
+    <list default="true" id="f5106b44-ecd3-47ce-8294-1b7f9286675c" name="Changes" comment="Atualizando estudos DIO.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SistemaMedida.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,9 +43,16 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ResultadoEscolar">
+  <component name="RunManager" selected="Application.Desafio2">
     <configuration name="CaixaEletronico" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CaixaEletronico" />
+      <module name="controle-fluxo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Desafio2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="desafiosdecodigo.Desafio2" />
       <module name="controle-fluxo" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -59,6 +67,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Desafio2" />
         <item itemvalue="Application.ResultadoEscolar" />
         <item itemvalue="Application.CaixaEletronico" />
       </list>
@@ -73,6 +82,14 @@
       <option name="presentableId" value="Default" />
       <updated>1664410458820</updated>
     </task>
+    <task id="LOCAL-00001" summary="Atualizando estudos DIO.">
+      <created>1664671345288</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664671345288</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -85,6 +102,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Atualizando estudos DIO." />
+    <option name="LAST_COMMIT_MESSAGE" value="Atualizando estudos DIO." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
