@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5106b44-ecd3-47ce-8294-1b7f9286675c" name="Changes" comment="Atualizando estudos DIO.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SistemaMedida.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CaixaEletronico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/base/CaixaEletronico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ResultadoEscolar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/base/ResultadoEscolar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +44,7 @@
 }</component>
   <component name="RunManager" selected="Application.Desafio2">
     <configuration name="CaixaEletronico" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CaixaEletronico" />
+      <option name="MAIN_CLASS_NAME" value="base.CaixaEletronico" />
       <module name="controle-fluxo" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -59,7 +58,7 @@
       </method>
     </configuration>
     <configuration name="ResultadoEscolar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ResultadoEscolar" />
+      <option name="MAIN_CLASS_NAME" value="base.ResultadoEscolar" />
       <module name="controle-fluxo" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -111,12 +110,12 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/CaixaEletronico.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/base/CaixaEletronico.java</url>
           <line>5</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/ResultadoEscolar.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/base/ResultadoEscolar.java</url>
           <line>5</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
