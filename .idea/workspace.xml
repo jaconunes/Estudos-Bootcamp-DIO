@@ -41,7 +41,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Desafio3">
+  <component name="RunManager" selected="Application.Desafio5">
     <configuration name="CaixaEletronico" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="base.CaixaEletronico" />
       <module name="controle-fluxo" />
@@ -69,6 +69,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Desafio5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="desafiosdecodigo.Desafio5" />
+      <module name="controle-fluxo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="desafiosdecodigo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ResultadoEscolar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="base.ResultadoEscolar" />
       <module name="controle-fluxo" />
@@ -78,6 +91,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Desafio5" />
         <item itemvalue="Application.Desafio3" />
         <item itemvalue="Application.Desafio2" />
         <item itemvalue="Application.ResultadoEscolar" />
